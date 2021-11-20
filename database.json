@@ -3,6 +3,10 @@
     "https://github.com/LoS00/cube_LoS00.git": [
       "https://github.com/LoS00/cube_LoS00.git",
       "1637442980989"
+    ],
+    "https://github.com/LoS00/javaCad_LoS00.git": [
+      "https://github.com/LoS00/javaCad_LoS00.git",
+      "1637443045337"
     ]
   },
   "studio-open-web": {},
@@ -10,6 +14,10 @@
     "https://github.com/LoS00/cube_LoS00.git:cube.groovy": [
       "https://github.com/LoS00/cube_LoS00.git",
       "cube.groovy"
+    ],
+    "https://github.com/LoS00/javaCad_LoS00.git:javaCad.groovy": [
+      "https://github.com/LoS00/javaCad_LoS00.git",
+      "javaCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
