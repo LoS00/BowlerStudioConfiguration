@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://gist.github.com/4814b39ee72e9f590757.git": [
+      "https://gist.github.com/4814b39ee72e9f590757.git",
+      "1637443073166"
+    ],
     "https://github.com/LoS00/cube_LoS00.git": [
       "https://github.com/LoS00/cube_LoS00.git",
       "1637442980989"
@@ -15,8 +19,8 @@
       "https://github.com/LoS00/cube_LoS00.git",
       "cube.groovy"
     ],
-    "https://github.com/LoS00/javaCad_LoS00.git:javaCad.groovy": [
-      "https://github.com/LoS00/javaCad_LoS00.git",
+    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
+      "https://gist.github.com/4814b39ee72e9f590757.git",
       "javaCad.groovy"
     ]
   },
